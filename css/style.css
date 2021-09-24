@@ -32,6 +32,8 @@ body {
 }
 
 .main-container {
+  border-radius: 10px;
+  overflow: hidden;
   max-width: 90rem;
   margin: auto;
   display: flex;
